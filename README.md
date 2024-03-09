@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home lab](https://github.com/troytucker21/Apply-filters-to-SQL-queries/tree/main)
+  - [Apply-filters-to-SQL-queries](https://github.com/troytucker21/Apply-filters-to-SQL-queries/tree/main)
 
 
 <h2> Certifications</h2>
