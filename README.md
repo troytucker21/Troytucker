@@ -11,7 +11,9 @@
 
 <b>ISC2 Certified in Cyber Security</b>
 
+<b>Qualys - Endpoint Detection and Response (EDR) - Foundation</b>
 
+<b>Qualys - Vulnerbility Management - Foundation</b>
 
 - 
 
